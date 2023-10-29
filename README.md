@@ -131,7 +131,7 @@ Split Condition: Product: Men's Apparel, Men's Athletic Footwear, Women's Athlet
 
 As we move through the tree, moving to the left is "No" while moving to the right is "Yes". "high" and "low" at the leaf nodes indicates that it is the prediction of the profitability of the purchase. We actually learn a lot that can help Adidas. The first, and most significant split that determines whether a purchase will be for a high or low margin profit is whether the purchases Men's Apparel,Men's Athletic Footwear,Women's Athletic Footwear,Women's Street Footwear or Men's Street Footwear,Women's Apparel. If the answer to this is yes, we move to the right of the tree and the product is very likely to be High profitability. For Men's Street Footwear, Women's Apparel, profitability is also predicted to be high, whether Opreating_profits is above or below $149,813
 
-### [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPET](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
+### [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPETS](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
 
 ### ![Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/13250638-21bc-41c3-b253-bf903ac27284)
 
@@ -140,6 +140,9 @@ As we move through the tree, moving to the left is "No" while moving to the righ
 ### ![FY21 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/c4728e7c-cf6b-4e68-9aff-c7550c1e0e0f)
 
 ### ![Performance Rate](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b164db09-cd87-4871-a1f5-ccf21010b277)
+
+### ![Call Centre Solution](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/7b816afd-6002-4bbe-ae30-7a90cdfbc1f8)
+
 
 
  More of my projects are in this link https://github.com/akpatiudo
