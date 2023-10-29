@@ -1,6 +1,6 @@
 # Eben-s-portfolio
    ## HI THERE I'M EBENEZER AKPATI
-## [Data talks](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b3cc0d97-338b-4c2f-b9ef-7295206487c0)
+## ![Data Talks](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b3cc0d97-338b-4c2f-b9ef-7295206487c0)
 
 
 ## ABOUT ME
@@ -26,8 +26,10 @@ ebenezerakpati@gmail.com
 ## [Project 1: Mrs Chatterjee Vs Norway: A Review Analysis of Twitter’s Perception Of The Movie.](https://github.com/akpatiudo/mrsChatter)
  
   **Use Case**
+
 Viewing your Business from the prism of social media can change a whole lot about how you handle your business. An analysis like this can practically tell you what people feel about your goods and services. Sentiment analysis can give a company direction on what to do, thereby saving stockholders time and money. For Data Analysis Process
 To make sense of any available data, a set of procedures must be completed. Identifying these procedures is essential as each stage is crucial in ensuring that the data is appropriately processed in a bid to offer useful and actionable information. Here are the steps I took in this process:
+
 
 1	Data Gathering
 2	Data Assessment and Cleaning
@@ -62,8 +64,8 @@ This dataset is An Adidas sales dataset that have information on the sales of Ad
 *  Worst stores are West Gear and Sports Direct in the West and South for Men's Athletic Footwear and Men's Street Footwear.
    The store at West missed its expected quarterly **oprating_profit** for first quarters of 2021 by at least $108,757.6.
 *  The store in the South also missed its expected quarterly **oprating_profits** for third quarter in 2021 by about $102,934.7.
-[Best Store](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b10abbf2-b0ce-4a49-9326-64735ea39ab4)
-[Quarter Performance](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/adeb418b-a9f3-49d2-bb61-362ddd7c4296)
+![Best Store](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b10abbf2-b0ce-4a49-9326-64735ea39ab4)
+![Quarter Performance](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/adeb418b-a9f3-49d2-bb61-362ddd7c4296)
 
 ## Recommendation 
 The manager, may want to look into the two stores that under performed during 2021 to work on improving their performance. In contrast, He may want to look into the two stores that outperformed during 2021 to find out if their best practices can be replicated in other locations.
@@ -81,7 +83,7 @@ data.frame('quarter_char' = c('First', 'Second', 'Third', 'Fourth'), 'quarterSec
 
 ## The Unique Effect of Quarter of the Year
 Quarter of the year may have a significant effect on quarterly oprating_profit after controlling for the percentage of sales that come from other products. Let's test this out by including it with the unit_sold variables that we have already investigated
-[Table](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/1f93d7e2-7a84-46fa-a2fd-421ff38417f8)
+![Table](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/1f93d7e2-7a84-46fa-a2fd-421ff38417f8)
 
 ## Insight
 regression analysis with the addition of the "units_sold" variable yields the following results:
@@ -125,16 +127,19 @@ Split Condition: Product: Men's Street Footwear, Women's Apparel Number of obser
 
 # Node 7:
 Split Condition: Product: Men's Apparel, Men's Athletic Footwear, Women's Athletic Footwear, Women's Street Footwear Number of observations (n): 1969 Deviance: 2471.0 Predicted value (yval): low Probability of class high (yprob): 0.3210 (32%) Probability of class low (yprob): 0.6790 (67%) Decision: This node represents a subgroup of data where the product is either Men's Apparel, Men's Athletic Footwear, Women's Athletic Footwear, or Women's Street Footwear. The majority class in this subgroup is low, with a probability of 0.6790. The deviance of 2471.0 indicates the level of impurity within this subgroup. Comparatively, node 6 has a higher predicted probability for the high class (0.5996) compared to node 7 (0.3210). This suggests that the product category "Men's Street Footwear, Women's Apparel" (node 6) is more likely to have a high predicted value. However, it's important to note that these probabilities and predictions are specific to the trained classification tree and should be interpreted within the context of the dataset and the model's performance. No alt text provided for this image
-![image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6859b0c7-61c3-448e-9c86-ee2755c2b5e4)
+## ![image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6859b0c7-61c3-448e-9c86-ee2755c2b5e4)
 
 As we move through the tree, moving to the left is "No" while moving to the right is "Yes". "high" and "low" at the leaf nodes indicates that it is the prediction of the profitability of the purchase. We actually learn a lot that can help Adidas. The first, and most significant split that determines whether a purchase will be for a high or low margin profit is whether the purchases Men's Apparel,Men's Athletic Footwear,Women's Athletic Footwear,Women's Street Footwear or Men's Street Footwear,Women's Apparel. If the answer to this is yes, we move to the right of the tree and the product is very likely to be High profitability. For Men's Street Footwear, Women's Apparel, profitability is also predicted to be high, whether Opreating_profits is above or below $149,813
 
 ## [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPET](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
 
-## [Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/13250638-21bc-41c3-b253-bf903ac27284)
+## ![Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/13250638-21bc-41c3-b253-bf903ac27284)
 
-## [FY20 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/09f1d547-a22c-47ac-8c36-12b76a5f3260)
+## ![FY20 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/09f1d547-a22c-47ac-8c36-12b76a5f3260)
 
+## ![FY21 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/c4728e7c-cf6b-4e68-9aff-c7550c1e0e0f)
+
+## ![Performance Rate](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b164db09-cd87-4871-a1f5-ccf21010b277)
 
 
 
