@@ -1,5 +1,6 @@
 # Eben-s-portfolio
    ## HI THERE I'M EBENEZER AKPATI
+## [Data talks](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/b3cc0d97-338b-4c2f-b9ef-7295206487c0)
 
 
 ## ABOUT ME
@@ -130,13 +131,10 @@ As we move through the tree, moving to the left is "No" while moving to the righ
 
 ## [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPET](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
 
-[Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/57bc7ca1-686b-47a5-a9c9-d60fd0cfd7a6)
+## [Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/13250638-21bc-41c3-b253-bf903ac27284)
 
-[FY20 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/d1bda34e-0816-4d93-a69b-3fec8516a60a)
+## [FY20 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/09f1d547-a22c-47ac-8c36-12b76a5f3260)
 
-[FY21 Promotion Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6cac3349-97a0-4eec-bcd5-391873151cf8)
-
-[Performance Rate Analysis](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/97a644d8-8a45-4f0d-801e-453d5e214822)
 
 
 
