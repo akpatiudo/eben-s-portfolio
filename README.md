@@ -1,6 +1,6 @@
 # Eben-s-portfolio
    ## HI THERE I'M EBENEZER AKPATI
-[](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/cd730ca1-aba0-4ad2-bacb-a269a2ff0735)
+[Data Speaks](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/cd730ca1-aba0-4ad2-bacb-a269a2ff0735)
 
 ## ABOUT ME
 I am a Data Analyst and a Business Intelligence (BI) Analyst who love telling Stories with data. I have vitual project experience from top companies like Google, Pwc, KPMG, TATA, Accenture and Tritek Consulting.
@@ -45,7 +45,7 @@ The sentiment analysis shows.  64.96% of Twitter had something positive to say a
 
 Based on the sentiment/emotional scores from tweets analysed I observe the following sentiments and their corresponding counts and percentages and I report from 10 and above: Anticipation: 8600 occurrences, accounting for approximately 13.2% of the sentiment score. Joy: 7146 occurrences, accounting for approximately 11.0% of the sentiment score. Negative: 6800 occurrences, accounting for approximately 10.0% of the sentiment score. Positive: 13746 occurrences, accounting for approximately 21.1% of the sentiment Trust: 11200 occurrences, accounting for approximately 17.3% of the sentiment score.
 
-## [Project 2: Adidas Sales Project.]([https://github.com/akpatiudo/mrsChatter](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
+## [Project 2: Adidas Sales Project.](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
 
 ## Part One 
 ## Residual Analysis: An R Project On How Adidas Quarterly Sales Are Affected By Quarter Of The year, Region, And By Product
@@ -130,9 +130,12 @@ As we move through the tree, moving to the left is "No" while moving to the righ
 
 ## [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPET](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
 [image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/57bc7ca1-686b-47a5-a9c9-d60fd0cfd7a6)
+
 [image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/d1bda34e-0816-4d93-a69b-3fec8516a60a)
+
 [image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6cac3349-97a0-4eec-bcd5-391873151cf8)
-![image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/97a644d8-8a45-4f0d-801e-453d5e214822)
+
+[image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/97a644d8-8a45-4f0d-801e-453d5e214822)
 
 
 
