@@ -1,4 +1,7 @@
-# eben-s-portfolio
+# Eben-s-portfolio
+   ## HI THERE I'M EBENEZER AKPATI
+[](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/cd730ca1-aba0-4ad2-bacb-a269a2ff0735)
+
 ## ABOUT ME
 I am a Data Analyst and a Business Intelligence (BI) Analyst who love telling Stories with data. I have vitual project experience from top companies like Google, Pwc, KPMG, TATA, Accenture and Tritek Consulting.
 I am proficient in communicating with data, when you speak the language of data, it talks back to you by revealing useful insights that can drive any sector positively.
@@ -42,7 +45,7 @@ The sentiment analysis shows.  64.96% of Twitter had something positive to say a
 
 Based on the sentiment/emotional scores from tweets analysed I observe the following sentiments and their corresponding counts and percentages and I report from 10 and above: Anticipation: 8600 occurrences, accounting for approximately 13.2% of the sentiment score. Joy: 7146 occurrences, accounting for approximately 11.0% of the sentiment score. Negative: 6800 occurrences, accounting for approximately 10.0% of the sentiment score. Positive: 13746 occurrences, accounting for approximately 21.1% of the sentiment Trust: 11200 occurrences, accounting for approximately 17.3% of the sentiment score.
 
-## [Project 2: Adidas Sales Project.]([https://github.com/akpatiudo/mrsChatter](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project))
+## [Project 2: Adidas Sales Project.]([https://github.com/akpatiudo/mrsChatter](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
 
 ## Part One 
 ## Residual Analysis: An R Project On How Adidas Quarterly Sales Are Affected By Quarter Of The year, Region, And By Product
@@ -116,14 +119,24 @@ Total_Sales > 22477 2928 3968.0 low ( 0.4122 0.5878 )
 7) Product: Men's Apparel,Men's Athletic Footwear,Women's Athletic Footwear,Women's Street Footwear 1969 2471.0 low ( 0.3210 0.6790 ) *
 In the given tree structure, the nodes are labeled numerically, and each node represents a decision point based on the specified condition. Here's the explanation of nodes 6 and 7 that houses Adidas Products:
 
-Node 6:
+# Node 6:
 Split Condition: Product: Men's Street Footwear, Women's Apparel Number of observations (n): 959 Deviance: 1291.0 Predicted value (yval): high Probability of class high (yprob): 0.5996 (60%) Probability of class low (yprob): 0.4004 (40%) Decision: This node represents a subgroup of data where the product is either Men's Street Footwear or Women's Apparel. The majority class in this subgroup is high, with a probability of 0.5996. The deviance of 1291.0 indicates the level of impurity within this subgroup.
 
-Node 7:
+# Node 7:
 Split Condition: Product: Men's Apparel, Men's Athletic Footwear, Women's Athletic Footwear, Women's Street Footwear Number of observations (n): 1969 Deviance: 2471.0 Predicted value (yval): low Probability of class high (yprob): 0.3210 (32%) Probability of class low (yprob): 0.6790 (67%) Decision: This node represents a subgroup of data where the product is either Men's Apparel, Men's Athletic Footwear, Women's Athletic Footwear, or Women's Street Footwear. The majority class in this subgroup is low, with a probability of 0.6790. The deviance of 2471.0 indicates the level of impurity within this subgroup. Comparatively, node 6 has a higher predicted probability for the high class (0.5996) compared to node 7 (0.3210). This suggests that the product category "Men's Street Footwear, Women's Apparel" (node 6) is more likely to have a high predicted value. However, it's important to note that these probabilities and predictions are specific to the trained classification tree and should be interpreted within the context of the dataset and the model's performance. No alt text provided for this image
 ![image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6859b0c7-61c3-448e-9c86-ee2755c2b5e4)
 
 As we move through the tree, moving to the left is "No" while moving to the right is "Yes". "high" and "low" at the leaf nodes indicates that it is the prediction of the profitability of the purchase. We actually learn a lot that can help Adidas. The first, and most significant split that determines whether a purchase will be for a high or low margin profit is whether the purchases Men's Apparel,Men's Athletic Footwear,Women's Athletic Footwear,Women's Street Footwear or Men's Street Footwear,Women's Apparel. If the answer to this is yes, we move to the right of the tree and the product is very likely to be High profitability. For Men's Street Footwear, Women's Apparel, profitability is also predicted to be high, whether Opreating_profits is above or below $149,813.
+
+## [Project 3: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPET](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
+[image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/57bc7ca1-686b-47a5-a9c9-d60fd0cfd7a6)
+[image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/d1bda34e-0816-4d93-a69b-3fec8516a60a)
+[image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/6cac3349-97a0-4eec-bcd5-391873151cf8)
+![image](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/97a644d8-8a45-4f0d-801e-453d5e214822)
+
+
+
+
 
 
 
