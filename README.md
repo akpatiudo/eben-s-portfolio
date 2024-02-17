@@ -52,7 +52,7 @@ Based on the sentiment/emotional scores from tweets analysed I observe the follo
 
 The analysis of Adidas USA Sales Dataset provided compelling insights, such as quarterly sales trends, product performance, sales method effectiveness, and more. Qtr 3 had the highest Sum of Total_Sales at £265,308,354, followed by Qtr 2, Qtr 4, and Qtr 1. Qtr 3 accounted for 29.48% of Sum of Total_Sales.
 
-## [Project 3: Mastering SQL: Your Essential Guide for Data EDA and ETL](https://github.com/akpatiudo/sqledaetl/tree/main)
+## [Project 3:  Mastering SQL: Your Essential Guide for Data EDA and ETL](https://github.com/akpatiudo/sqledaetl/tree/main)
 
 SQL is indispensable for anyone working with data and databases. This guide provides fundamental concepts for navigating relational databases, extracting insights, and manipulating data efficiently
 
