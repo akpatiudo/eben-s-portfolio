@@ -52,7 +52,11 @@ Based on the sentiment/emotional scores from tweets analysed I observe the follo
 
 The analysis of Adidas USA Sales Dataset provided compelling insights, such as quarterly sales trends, product performance, sales method effectiveness, and more. Qtr 3 had the highest Sum of Total_Sales at £265,308,354, followed by Qtr 2, Qtr 4, and Qtr 1. Qtr 3 accounted for 29.48% of Sum of Total_Sales.
 
-### [Project 3: Adidas Sales Project.](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
+## [Project 3: Mastering SQL: Your Essential Guide for Data EDA and ETL](https://github.com/akpatiudo/sqledaetl/tree/main)
+
+SQL is indispensable for anyone working with data and databases. This guide provides fundamental concepts for navigating relational databases, extracting insights, and manipulating data efficiently
+
+### [Project 4: Adidas Sales Project.](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
 
 ## Part One 
 ### Residual Analysis: An R Project On How Adidas Quarterly Sales Are Affected By Quarter Of The year, Region, And By Product
@@ -135,7 +139,7 @@ Split Condition: Product: Men's Apparel, Men's Athletic Footwear, Women's Athlet
 
 As we move through the tree, moving to the left is "No" while moving to the right is "Yes". "high" and "low" at the leaf nodes indicates that it is the prediction of the profitability of the purchase. We actually learn a lot that can help Adidas. The first, and most significant split that determines whether a purchase will be for a high or low margin profit is whether the purchases Men's Apparel,Men's Athletic Footwear,Women's Athletic Footwear,Women's Street Footwear or Men's Street Footwear,Women's Apparel. If the answer to this is yes, we move to the right of the tree and the product is very likely to be High profitability. For Men's Street Footwear, Women's Apparel, profitability is also predicted to be high, whether Opreating_profits is above or below $149,813
 
-### [Project 4: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPETS](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
+### [Project 5: PWC DAVERSITY AND INCLUTION ANALYSIS SNIPPETS](https://github.com/akpatiudo/diversity_inclusion/blob/main/README.md)
 
 ### ![Daversity And Inclusion](https://github.com/akpatiudo/eben-s-portfolio/assets/118566096/13250638-21bc-41c3-b253-bf903ac27284)
 
