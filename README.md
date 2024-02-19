@@ -56,7 +56,12 @@ The analysis of Adidas USA Sales Dataset provided compelling insights, such as q
 
 SQL is indispensable for anyone working with data and databases. This guide provides fundamental concepts for navigating relational databases, extracting insights, and manipulating data efficiently
 
-### [Project 4: Adidas Sales Project.](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
+## [Project 4: AFRICA CONTINENT COVID-19 DATA ANALYSIS AS OF JANUARY 2020 TO MAY 2023: AN SQL SERVER (SSMS) AND TEABLU PROJECT](https://github.com/akpatiudo/covid19)
+
+Analysis of vaccination data revealed variations in vaccination rates across African countries, with Seychelles leading in the percentage of fully vaccinated people.
+Visualization highlighted trends such as the impact of temperature on case numbers, monthly fluctuations in new cases and deaths, and disparities in hospitalization records across countries.
+
+### [Project 5: Adidas Sales Project.](https://github.com/akpatiudo/Adidas-Sales-Project#adidas-sales-project)
 
 ## Part One 
 ### Residual Analysis: An R Project On How Adidas Quarterly Sales Are Affected By Quarter Of The year, Region, And By Product
